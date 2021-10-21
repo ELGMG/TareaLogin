@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VsftBUginuo66IlXG82Ov7l/14z+Qj9TMoC0tk0kBv0+hWEEkf9Ns6szKfv1IkaxTmesfz9jWUUF4JHzbbmIxw==",
+  "dgSpecHash": "2oa8BnBOwR4Oy3mYDwLCx3+48QALZA79TBFAId4xZ3CdzmiVUD4NyIH0HPLqcAU/E85w9ITEvKZwnfxE0vjX+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viquez\\Documents\\VisualStudioProjects\\MobileApps\\TareaLogin\\TareaLogin\\TareaLogin.csproj",
+  "projectFilePath": "C:\\Users\\justi\\OneDrive\\Documenten\\ULACIT\\6\\C#\\ROOT\\TareaLogin\\TareaLogin\\TareaLogin.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Viquez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Viquez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Viquez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

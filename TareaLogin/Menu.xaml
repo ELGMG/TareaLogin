@@ -1,17 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="TareaLogin.Menu">
+             x:Class="TareaLogin.Menu"
+             >
+
+
     <ContentPage.Content>
         <StackLayout>
+             
+            
+            
             <Frame BackgroundColor="#1d89f8" VerticalOptions="StartAndExpand" CornerRadius="0" Grid.Row="0">
-                <Label Text="Main Menu" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="White" FontSize="36"/>
+                <Label Text=" Menu Principal" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="White" FontSize="36"/>
             </Frame>
 
             <Grid>
-                
+                <Image Source="crab.png" Aspect="AspectFit"/>
                 <!--todo-->
-                
+                <Button x:Name="btnAutodictamen" Text="Autoexamen" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8" ></Button>
+                <Button x:Name="btnVerDictamen" Text="Ver Dictamen" FontSize="Caption" TextColor="White" Grid.Row="1" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
+                <Button x:Name="btnCentroMedico" Text="Centro Medico" FontSize="Caption" TextColor="White" Grid.Row="2" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
+                <Button x:Name="btnAyuda" Text="Ayuda" FontSize="Caption" TextColor="White" Grid.Row="3" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
             </Grid>
             
         </StackLayout>

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8jnYNjUfdchC74btUCwfM4Q3muypt69Q3PTE2DnC0o3shiS97Pn3dR+Lkq9hMlqQQ8ARfBLc5JHIsa41eJ7fMg==",
+  "dgSpecHash": "v98cDg9WQkLPCkVc3EQK1A8eACPFHGB9CkjvzSYYOD5A5+Lend5bIMPoa83ykCBXN4ydEQAi/1WjeA3NR83jxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viquez\\Documents\\VisualStudioProjects\\MobileApps\\TareaLogin\\TareaLogin.Android\\TareaLogin.Android.csproj",
+  "projectFilePath": "C:\\Users\\justi\\OneDrive\\Documenten\\ULACIT\\6\\C#\\ROOT\\TareaLogin\\TareaLogin.Android\\TareaLogin.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Viquez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\justi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation.experimental\\1.0.0.8\\xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
