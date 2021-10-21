@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TareaLogin.MainPage"
+             BackgroundColor="White">
+
+    <StackLayout>
+        <Grid>
+            <Frame BackgroundColor="#1d89f8" VerticalOptions="StartAndExpand" CornerRadius="0" Grid.Row="0">
+                <Label Text="SkinCrab" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+
+            <Image Source="crab.png" Grid.Row="1"></Image>
+            <Entry Placeholder="Email" TextColor="Black" PlaceholderColor="#1d89f8" Grid.Row="2" Margin="30,0,30,0"></Entry>
+            <Entry Placeholder="Password" TextColor="Black" PlaceholderColor="#1d89f8" Grid.Row="3" Margin="30,0,30,0" IsPassword="True"></Entry>
+
+            <StackLayout Grid.Row="4" Margin="0,30,0,0">
+                <Grid>
+                    <Button x:Name="btnLogin" Text="Login" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8" Clicked="btnLogin_Clicked"></Button>
+                    <Button x:Name="btnRegister" Text="Register" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="1" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
+                </Grid>
+            </StackLayout>
+        </Grid>
+    </StackLayout>
+</ContentPage>

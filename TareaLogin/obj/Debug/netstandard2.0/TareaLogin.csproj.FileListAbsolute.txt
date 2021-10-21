@@ -1,0 +1,15 @@
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\bin\Debug\netstandard2.0\TareaLogin.deps.json
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\bin\Debug\netstandard2.0\TareaLogin.dll
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\bin\Debug\netstandard2.0\ref\TareaLogin.dll
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\bin\Debug\netstandard2.0\TareaLogin.pdb
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\TareaLogin.AssemblyInfoInputs.cache
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\TareaLogin.AssemblyInfo.cs
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\TareaLogin.csproj.CoreCompileInputs.cache
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\TareaLogin.dll
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\ref\TareaLogin.dll
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\TareaLogin.pdb
+C:\Users\Viquez\Documents\VisualStudioProjects\MobileApps\TareaLogin\TareaLogin\obj\Debug\netstandard2.0\TareaLogin.csproj.AssemblyReference.cache
