@@ -16,7 +16,7 @@
 
             <Grid>
                 <Image Source="crab.png" Aspect="AspectFit"/>
-                <!--todo-->
+                <!--todo--> 
                 <Button x:Name="btnAutodictamen" Text="Autoexamen" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8" ></Button>
                 <Button x:Name="btnVerDictamen" Text="Ver Dictamen" FontSize="Caption" TextColor="White" Grid.Row="1" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
                 <Button x:Name="btnCentroMedico" Text="Centro Medico" FontSize="Caption" TextColor="White" Grid.Row="2" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
