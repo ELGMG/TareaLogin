@@ -9,9 +9,12 @@
             </Frame>
 
             <Grid>
-                
+                <Image Source="crab.png" Grid.Row="1" Aspect="AspectFit"></Image>
                 <!--todo-->
-                
+                <Button x:Name="btnAutoexamen" Text="Autoexamen" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8" </Button>
+                <Button x:Name="btnVerdictamen" Text="Ver dictamen" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
+                <Button x:Name="btnCentrosmedicos" Text="Centros medicos" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"</Button>
+                <Button x:Name="btnAyuda"           Text="Ayuda"            FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
             </Grid>
             
         </StackLayout>
