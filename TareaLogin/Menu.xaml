@@ -4,19 +4,29 @@
              x:Class="TareaLogin.Menu">
     <ContentPage.Content>
         <StackLayout>
-            <Frame BackgroundColor="#1d89f8" VerticalOptions="StartAndExpand" CornerRadius="0" Grid.Row="0">
+            <Frame BackgroundColor="#1d89f8"  CornerRadius="0" Grid.Row="0" >
                 <Label Text=" Menu Principal " HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="White" FontSize="36"/>
             </Frame>
 
+
+            <StackLayout Margin="0,100,0,0">
+                
+                <Button x:Name="btnAutoexamen" Text="Autoexamen"  Margin="10,20,10,0" FontSize="Caption" TextColor="White" CornerRadius="60" BackgroundColor="#1d89f8"> </Button>
+                <Button x:Name="btnVerdictamen" Text="Ver dictamen" Margin="10,20,10,0" FontSize="Caption" TextColor="White"  CornerRadius="60" BackgroundColor="#1d89f8"></Button>
+                <Button x:Name="btnCentrosmedicos" Text="Centros medicos" Margin="10,20,10,0" FontSize="Caption" TextColor="White" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
+                <Button x:Name="btnAyuda"           Text="Ayuda"          Margin="10,20,10,20"  FontSize="Caption" TextColor="White"  CornerRadius="60" BackgroundColor="#1d89f8"></Button>
+                </StackLayout>
             <Grid>
-                <Image Source="crab.png" Grid.Row="1" Aspect="AspectFit"></Image>
-                <!--todo-->
-                <Button x:Name="btnAutoexamen" Text="Autoexamen" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8" </Button>
-                <Button x:Name="btnVerdictamen" Text="Ver dictamen" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
-                <Button x:Name="btnCentrosmedicos" Text="Centros medicos" FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"</Button>
-                <Button x:Name="btnAyuda"           Text="Ayuda"            FontSize="Caption" TextColor="White" Grid.Row="0" Grid.Column="0" Margin="30,0,30,0" CornerRadius="60" BackgroundColor="#1d89f8"></Button>
+                <Grid.ColumnDefinitions >
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+    
+                </Grid.ColumnDefinitions>
+                <Image Source="crab.png" Grid.Column="1"/>
+
             </Grid>
-            
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
